@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 .venv
 venv/
+SRD_CC_v5.1_IT.pdf
+schede/
